@@ -1,0 +1,201 @@
+country,year,access_to_electricity
+Brazil,2000,94.4
+Brazil,2001,96.0
+Brazil,2002,96.7
+Brazil,2003,97.0
+Brazil,2004,96.8
+Brazil,2005,97.1
+Brazil,2006,97.6
+Brazil,2007,98.1
+Brazil,2008,98.5
+Brazil,2009,98.9
+Brazil,2010,98.6
+Brazil,2011,99.3
+Brazil,2012,99.5
+Brazil,2013,99.6
+Brazil,2014,99.7
+Brazil,2015,99.7
+Brazil,2016,99.7
+Brazil,2017,99.8
+Brazil,2018,99.7
+Brazil,2019,99.8
+Brazil,2020,99.7
+Brazil,2021,99.5
+Brazil,2022,100.0
+Brazil,2023,99.8
+Brazil,2024,99.8
+Costa Rica,2000,96.9
+Costa Rica,2001,98.2
+Costa Rica,2002,98.5
+Costa Rica,2003,98.7
+Costa Rica,2004,99.0
+Costa Rica,2005,99.1
+Costa Rica,2006,99.1
+Costa Rica,2007,99.2
+Costa Rica,2008,99.3
+Costa Rica,2009,99.4
+Costa Rica,2010,99.0
+Costa Rica,2011,99.2
+Costa Rica,2012,99.5
+Costa Rica,2013,99.6
+Costa Rica,2014,99.4
+Costa Rica,2015,99.4
+Costa Rica,2016,99.5
+Costa Rica,2017,99.6
+Costa Rica,2018,99.7
+Costa Rica,2019,99.7
+Costa Rica,2020,99.9
+Costa Rica,2021,100.0
+Costa Rica,2022,100.0
+Costa Rica,2023,100.0
+Costa Rica,2024,99.8
+Guatemala,2000,73.3
+Guatemala,2001,73.7
+Guatemala,2002,78.7
+Guatemala,2003,78.5
+Guatemala,2004,77.2
+Guatemala,2005,78.3
+Guatemala,2006,83.7
+Guatemala,2007,80.7
+Guatemala,2008,81.9
+Guatemala,2009,83.1
+Guatemala,2010,84.3
+Guatemala,2011,84.0
+Guatemala,2012,86.8
+Guatemala,2013,88.1
+Guatemala,2014,85.5
+Guatemala,2015,90.5
+Guatemala,2016,91.8
+Guatemala,2017,93.3
+Guatemala,2018,94.2
+Guatemala,2019,95.4
+Guatemala,2020,96.6
+Guatemala,2021,97.9
+Guatemala,2022,99.1
+Guatemala,2023,100.0
+Guatemala,2024,90.9
+Haiti,2000,33.7
+Haiti,2001,31.5
+Haiti,2002,33.1
+Haiti,2003,31.6
+Haiti,2004,34.1
+Haiti,2005,34.5
+Haiti,2006,33.9
+Haiti,2007,35.5
+Haiti,2008,36.1
+Haiti,2009,36.6
+Haiti,2010,37.2
+Haiti,2011,37.8
+Haiti,2012,37.9
+Haiti,2013,38.9
+Haiti,2014,39.6
+Haiti,2015,40.8
+Haiti,2016,40.4
+Haiti,2017,43.3
+Haiti,2018,44.4
+Haiti,2019,45.4
+Haiti,2020,46.3
+Haiti,2021,47.2
+Haiti,2022,49.3
+Haiti,2023,51.3
+Haiti,2024,53.9
+Honduras,2000,67.4
+Honduras,2001,64.2
+Honduras,2002,63.1
+Honduras,2003,65.1
+Honduras,2004,67.1
+Honduras,2005,68.9
+Honduras,2006,71.3
+Honduras,2007,73.5
+Honduras,2008,76.4
+Honduras,2009,78.3
+Honduras,2010,81.0
+Honduras,2011,82.2
+Honduras,2012,83.6
+Honduras,2013,87.2
+Honduras,2014,88.7
+Honduras,2015,90.0
+Honduras,2016,91.6
+Honduras,2017,86.5
+Honduras,2018,91.6
+Honduras,2019,91.1
+Honduras,2020,93.1
+Honduras,2021,94.1
+Honduras,2022,94.4
+Honduras,2023,95.6
+Honduras,2024,95.5
+Mexico,2000,98.0
+Mexico,2001,97.1
+Mexico,2002,97.9
+Mexico,2003,97.4
+Mexico,2004,98.6
+Mexico,2005,98.9
+Mexico,2006,99.1
+Mexico,2007,97.9
+Mexico,2008,98.9
+Mexico,2009,98.3
+Mexico,2010,99.2
+Mexico,2011,99.0
+Mexico,2012,99.1
+Mexico,2013,99.1
+Mexico,2014,99.2
+Mexico,2015,99.0
+Mexico,2016,99.5
+Mexico,2017,100.0
+Mexico,2018,99.5
+Mexico,2019,99.6
+Mexico,2020,99.4
+Mexico,2021,100.0
+Mexico,2022,100.0
+Mexico,2023,99.7
+Mexico,2024,99.8
+Nicaragua,2000,73.0
+Nicaragua,2001,72.2
+Nicaragua,2002,74.1
+Nicaragua,2003,74.6
+Nicaragua,2004,75.2
+Nicaragua,2005,73.8
+Nicaragua,2006,76.3
+Nicaragua,2007,76.9
+Nicaragua,2008,77.5
+Nicaragua,2009,77.9
+Nicaragua,2010,80.1
+Nicaragua,2011,81.2
+Nicaragua,2012,81.3
+Nicaragua,2013,81.9
+Nicaragua,2014,81.9
+Nicaragua,2015,83.2
+Nicaragua,2016,83.9
+Nicaragua,2017,84.6
+Nicaragua,2018,85.2
+Nicaragua,2019,85.7
+Nicaragua,2020,86.0
+Nicaragua,2021,86.3
+Nicaragua,2022,86.5
+Nicaragua,2023,88.3
+Nicaragua,2024,88.7
+Mediana LatAm,2000,91.65
+Mediana LatAm,2001,92.5
+Mediana LatAm,2002,92.95
+Mediana LatAm,2003,93.8
+Mediana LatAm,2004,94.0
+Mediana LatAm,2005,95.25
+Mediana LatAm,2006,96.0
+Mediana LatAm,2007,96.65
+Mediana LatAm,2008,97.0
+Mediana LatAm,2009,96.7
+Mediana LatAm,2010,97.45
+Mediana LatAm,2011,97.4
+Mediana LatAm,2012,97.5
+Mediana LatAm,2013,98.2
+Mediana LatAm,2014,98.6
+Mediana LatAm,2015,98.69999999999999
+Mediana LatAm,2016,98.55000000000001
+Mediana LatAm,2017,99.2
+Mediana LatAm,2018,98.80000000000001
+Mediana LatAm,2019,99.25
+Mediana LatAm,2020,99.7
+Mediana LatAm,2021,99.75
+Mediana LatAm,2022,100.0
+Mediana LatAm,2023,99.75
+Mediana LatAm,2024,98.80000000000001
